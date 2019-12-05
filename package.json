@@ -1,0 +1,8 @@
+{
+  "name": "planecheck",
+  "version": "1.0.0",
+  "description": "A site to check planes",
+  "main": "index.js",
+  "author": "APZelos",
+  "license": "MIT"
+}
